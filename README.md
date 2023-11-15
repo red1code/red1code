@@ -21,55 +21,33 @@ I'm a self-taught front-end developer, from Algeria.
 ### My skills
 
 <div>
-  <span>
-    <img 
-      src="./assets/html5-original.svg" 
-      alt="HTML icon" width="50" height="50"/><br />
-    <b>HTML</b>
-  </span>
-  <span>
-    <img 
-      src="./assets/css3-plain-wordmark.svg" 
-      alt="CSS icon" width="50" height="50"/><br />
-    <b>CSS</b>
-  </span>
-  <span>
-    <img 
-      src="./assets/javascript-original.svg" 
-      alt="Javascript icon" width="50" height="50"/><br />
-    <b>Javascript</b>
-  </span>
-  <span>
-    <img 
-      src="./assets/typescript.svg" 
-      alt="Typescript icon" width="50" height="50"/><br />
-    <b>Typescript</b>
-  </span>
-  <span>
-    <img 
-      src="./assets/angular.svg" 
-      alt="Angular icon" width="50" height="50"/><br />
-    <b>Angular</b>
-  </span>
-  <span>
-    <img 
-      src="./assets/git-plain.svg" 
-      alt="GIT icon" width="50" height="50"/><br />
-    <b>GIT</b>
-  </span>
-  <span>
-    <img 
-      src="./assets/wordpress.svg" 
-      alt="WordPress icon" width="50" height="50"/><br />
-    <b>WordPress</b>
-  </span>
-  <span>
-    <img 
-      src="./assets/google-sheets-logo-icon.svg" 
-      alt="Google Sheets icon" width="50" height="50"/><br />
-    <b>Google Sheets</b>
-  </span>
+  <img 
+    src="./assets/html5-original.svg" 
+    alt="HTML icon" width="50" height="50"/>
+  <img 
+    src="./assets/css3-plain-wordmark.svg" 
+    alt="CSS icon" width="50" height="50"/>
+  <img 
+    src="./assets/javascript-original.svg" 
+    alt="Javascript icon" width="50" height="50"/>
+  <img 
+    src="./assets/typescript.svg" 
+    alt="Typescript icon" width="50" height="50"/>
+  <img 
+    src="./assets/angular.svg" 
+    alt="Angular icon" width="50" height="50"/>
+  <img 
+    src="./assets/git-plain.svg" 
+    alt="GIT icon" width="50" height="50"/>
+  <img 
+    src="./assets/wordpress.svg" 
+    alt="WordPress icon" width="50" height="50"/>
+  <img 
+    src="./assets/google-sheets-logo-icon.svg" 
+    alt="Google Sheets icon" width="50" height="50"/>
 </div>
+
+<br />
 
 <ul>
   <li>🌱 Currently learning [React.js](https://react.dev/) and [Node.js](https://nodejs.org/en/learn)
