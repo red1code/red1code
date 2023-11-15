@@ -5,7 +5,7 @@
     <img src="./assets/LinkedIn_icon.svg" width="50" height="50">
   </a>
   <a href="https://twitter.com/red1dev" target="_blank">
-    <img src="./assets/Twitter-X-icon.svg" width="50" height="50">
+    <img src="./assets/X-icon.svg" width="50" height="50">
   </a>
   <a href="https://t.me/red1dev" target="_blank">
     <img src="./assets/telegram.svg" width="50" height="50">
@@ -21,10 +21,56 @@ I'm a self-taught front-end developer, from Algeria.
 ### My skills
 
 <div>
-  <img 
-    src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" 
-    title="HTML5" alt="HTML icon" width="50" height="50"/>&nbsp;
-  <img 
+  <span>
+    <img 
+      src="./assets/html5-original.svg" 
+      alt="HTML icon" width="50" height="50"/>&nbsp;<br>
+    **HTML**
+  </span>
+  <span>
+    <img 
+      src="./assets/css3-plain-wordmark.svg" 
+      alt="CSS icon" width="50" height="50"/>&nbsp;<br>
+    **CSS**
+  </span>
+  <span>
+    <img 
+      src="./assets/javascript-original.svg" 
+      alt="Javascript icon" width="50" height="50"/>&nbsp;<br>
+    **Javascript**
+  </span>
+  <span>
+    <img 
+      src="./assets/typescript.svg" 
+      alt="Typescript icon" width="50" height="50"/>&nbsp;<br>
+    **Typescript**
+  </span>
+  <span>
+    <img 
+      src="./assets/angular.svg" 
+      alt="Angular icon" width="50" height="50"/>&nbsp;<br>
+    **Angular**
+  </span>
+  <span>
+    <img 
+      src="./assets/git-plain.svg" 
+      alt="GIT icon" width="50" height="50"/>&nbsp;<br>
+    **GIT**
+  </span>
+  <span>
+    <img 
+      src="./assets/wordpress.svg" 
+      alt="WordPress icon" width="50" height="50"/>&nbsp;<br>
+    **WordPress**
+  </span>
+  <span>
+    <img 
+      src="./assets/google-sheets-logo-icon.svg" 
+      alt="Google Sheets icon" width="50" height="50"/>&nbsp;<br>
+    **Google Sheets**
+  </span>
+  
+  <!-- <img 
     src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" 
     title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
   <img 
@@ -35,13 +81,15 @@ I'm a self-taught front-end developer, from Algeria.
     title="Git" **alt="Git" width="50" height="50"/>&nbsp;
   <img 
     src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" 
-    title="Firebase" alt="Firebase" width="50" height="50"/>&nbsp;
-
+    title="Firebase" alt="Firebase" width="50" height="50"/>&nbsp; -->
 </div>&nbsp;
 
+<ul>
+  <li>🌱 Currently learning [React.js](https://react.dev/) and [Node.js](https://nodejs.org/en/learn)
+  <li>💥 Interested in [flutter]()
+</ul>
 
-🌱 Currently learning [React.js](https://react.dev/) and [Node.js]() ...
-💥 Interested in [flutter]() ...
+
 
 <!--
 **red1code/red1code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
