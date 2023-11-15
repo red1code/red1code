@@ -24,50 +24,50 @@ I'm a self-taught front-end developer, from Algeria.
   <span>
     <img 
       src="./assets/html5-original.svg" 
-      alt="HTML icon" width="50" height="50"/><br>
-    **HTML**
-  </span>&nbsp;
+      alt="HTML icon" width="50" height="50"/>&nbsp;
+    <b>HTML</b>
+  </span>
   <span>
     <img 
       src="./assets/css3-plain-wordmark.svg" 
-      alt="CSS icon" width="50" height="50"/><br>
-    **CSS**
-  </span>&nbsp;
+      alt="CSS icon" width="50" height="50"/>&nbsp;
+    <b>CSS</b>
+  </span>
   <span>
     <img 
       src="./assets/javascript-original.svg" 
-      alt="Javascript icon" width="50" height="50"/><br>
-    **Javascript**
-  </span>&nbsp;
+      alt="Javascript icon" width="50" height="50"/>&nbsp;
+    <b>Javascript</b>
+  </span>
   <span>
     <img 
       src="./assets/typescript.svg" 
-      alt="Typescript icon" width="50" height="50"/><br>
-    **Typescript**
-  </span>&nbsp;
+      alt="Typescript icon" width="50" height="50"/>&nbsp;
+    <b>Typescript</b>
+  </span>
   <span>
     <img 
       src="./assets/angular.svg" 
-      alt="Angular icon" width="50" height="50"/><br>
-    **Angular**
-  </span>&nbsp;
+      alt="Angular icon" width="50" height="50"/>&nbsp;
+    <b>Angular</b>
+  </span>
   <span>
     <img 
       src="./assets/git-plain.svg" 
-      alt="GIT icon" width="50" height="50"/><br>
-    **GIT**
-  </span>&nbsp;
+      alt="GIT icon" width="50" height="50"/>&nbsp;
+    <b>GIT</b>
+  </span>
   <span>
     <img 
       src="./assets/wordpress.svg" 
-      alt="WordPress icon" width="50" height="50"/><br>
-    **WordPress**
-  </span>&nbsp;
+      alt="WordPress icon" width="50" height="50"/>&nbsp;
+    <b>WordPress</b>
+  </span>
   <span>
     <img 
       src="./assets/google-sheets-logo-icon.svg" 
-      alt="Google Sheets icon" width="50" height="50"/><br>
-    **Google Sheets**
+      alt="Google Sheets icon" width="50" height="50"/>&nbsp;
+    <b>Google Sheets</b>
   </span>
 </div>
 
