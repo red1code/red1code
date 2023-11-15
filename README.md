@@ -1,18 +1,14 @@
 ### Hi there 👋
 
-<div id="header" margin="">
-  You can reach me here => 
+<div id="header" align="center">
   <a href="https://www.linkedin.com/in/redouane-bekkouche/" target="_blank">
-    <img src="./assets/LinkedIn_icon.svg" width="40" height="40"
-         style="margin-right: 24px;">
-  </a>
+    <img src="./assets/LinkedIn_icon.svg" width="40" height="40">
+  </a>&nbsp;
   <a href="https://twitter.com/red1dev" target="_blank">
-    <img src="./assets/X-icon.svg" width="40" height="40"
-         style="margin-right: 24px;">
-  </a>
+    <img src="./assets/X-icon.svg" width="40" height="40">
+  </a>&nbsp;
   <a href="https://t.me/red1dev" target="_blank">
-    <img src="./assets/telegram.svg" width="40" height="40"
-         style="margin-right: 24px;">
+    <img src="./assets/telegram.svg" width="40" height="40">
   </a>
 </div>
 
@@ -21,6 +17,7 @@
 ## About me
 
 I'm a self-taught front-end developer, from Algeria.
+
 
 ### My skills
 
@@ -54,7 +51,7 @@ I'm a self-taught front-end developer, from Algeria.
 <br />
 
 - 🌱 Currently learning [React.js](https://react.dev/) and [Node.js](https://nodejs.org/en/learn)
-- 💥 Interested in [flutter]()
+- 💥 Interested in [Flutter]()
 
 
 
