@@ -1,14 +1,18 @@
 ### Hi there 👋
 
-<div id="header" align="center">
+<div id="header" margin="">
+  You can reach me here => 
   <a href="https://www.linkedin.com/in/redouane-bekkouche/" target="_blank">
-    <img src="./assets/LinkedIn_icon.svg" width="50" height="50">
+    <img src="./assets/LinkedIn_icon.svg" width="40" height="40"
+         style="margin-right: 24px;">
   </a>
   <a href="https://twitter.com/red1dev" target="_blank">
-    <img src="./assets/X-icon.svg" width="50" height="50">
+    <img src="./assets/X-icon.svg" width="40" height="40"
+         style="margin-right: 24px;">
   </a>
   <a href="https://t.me/red1dev" target="_blank">
-    <img src="./assets/telegram.svg" width="50" height="50">
+    <img src="./assets/telegram.svg" width="40" height="40"
+         style="margin-right: 24px;">
   </a>
 </div>
 
@@ -49,10 +53,8 @@ I'm a self-taught front-end developer, from Algeria.
 
 <br />
 
-<ul>
-  <li>🌱 Currently learning [React.js](https://react.dev/) and [Node.js](https://nodejs.org/en/learn)
-  <li>💥 Interested in [flutter]()
-</ul>
+- 🌱 Currently learning [React.js](https://react.dev/) and [Node.js](https://nodejs.org/en/learn)
+- 💥 Interested in [flutter]()
 
 
 
