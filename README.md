@@ -25,33 +25,47 @@ I'm a self-taught front-end developer, from Algeria.
   <img 
     src="./assets/html5-original.svg" 
     alt="HTML icon" width="50" height="50"/>
+  &nbsp;
   <img 
     src="./assets/css3-plain-wordmark.svg" 
     alt="CSS icon" width="50" height="50"/>
+  &nbsp;
   <img 
     src="./assets/javascript-original.svg" 
     alt="Javascript icon" width="50" height="50"/>
+  &nbsp;
   <img 
     src="./assets/typescript.svg" 
     alt="Typescript icon" width="50" height="50"/>
+  &nbsp;
   <img 
     src="./assets/angular.svg" 
     alt="Angular icon" width="50" height="50"/>
+  &nbsp;
   <img 
     src="./assets/git-plain.svg" 
     alt="GIT icon" width="50" height="50"/>
+  &nbsp;
   <img 
     src="./assets/wordpress.svg" 
     alt="WordPress icon" width="50" height="50"/>
+  &nbsp;
   <img 
     src="./assets/google-sheets-logo-icon.svg" 
     alt="Google Sheets icon" width="50" height="50"/>
+  &nbsp;
 </div>
 
 <br />
 
 - 🌱 Currently learning [React.js](https://react.dev/) and [Node.js](https://nodejs.org/en/learn)
 - 💥 Interested in [Flutter]()
+
+---
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=red1code&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=red1code&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
