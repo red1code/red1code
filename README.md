@@ -24,65 +24,52 @@ I'm a self-taught front-end developer, from Algeria.
   <span>
     <img 
       src="./assets/html5-original.svg" 
-      alt="HTML icon" width="50" height="50"/>&nbsp;<br>
+      alt="HTML icon" width="50" height="50"/><br>
     **HTML**
-  </span>
+  </span>&nbsp;
   <span>
     <img 
       src="./assets/css3-plain-wordmark.svg" 
-      alt="CSS icon" width="50" height="50"/>&nbsp;<br>
+      alt="CSS icon" width="50" height="50"/><br>
     **CSS**
-  </span>
+  </span>&nbsp;
   <span>
     <img 
       src="./assets/javascript-original.svg" 
-      alt="Javascript icon" width="50" height="50"/>&nbsp;<br>
+      alt="Javascript icon" width="50" height="50"/><br>
     **Javascript**
-  </span>
+  </span>&nbsp;
   <span>
     <img 
       src="./assets/typescript.svg" 
-      alt="Typescript icon" width="50" height="50"/>&nbsp;<br>
+      alt="Typescript icon" width="50" height="50"/><br>
     **Typescript**
-  </span>
+  </span>&nbsp;
   <span>
     <img 
       src="./assets/angular.svg" 
-      alt="Angular icon" width="50" height="50"/>&nbsp;<br>
+      alt="Angular icon" width="50" height="50"/><br>
     **Angular**
-  </span>
+  </span>&nbsp;
   <span>
     <img 
       src="./assets/git-plain.svg" 
-      alt="GIT icon" width="50" height="50"/>&nbsp;<br>
+      alt="GIT icon" width="50" height="50"/><br>
     **GIT**
-  </span>
+  </span>&nbsp;
   <span>
     <img 
       src="./assets/wordpress.svg" 
-      alt="WordPress icon" width="50" height="50"/>&nbsp;<br>
+      alt="WordPress icon" width="50" height="50"/><br>
     **WordPress**
-  </span>
+  </span>&nbsp;
   <span>
     <img 
       src="./assets/google-sheets-logo-icon.svg" 
-      alt="Google Sheets icon" width="50" height="50"/>&nbsp;<br>
+      alt="Google Sheets icon" width="50" height="50"/><br>
     **Google Sheets**
   </span>
-  
-  <!-- <img 
-    src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" 
-    title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
-  <img 
-    src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" 
-    title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
-  <img 
-    src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" 
-    title="Git" **alt="Git" width="50" height="50"/>&nbsp;
-  <img 
-    src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" 
-    title="Firebase" alt="Firebase" width="50" height="50"/>&nbsp; -->
-</div>&nbsp;
+</div>
 
 <ul>
   <li>🌱 Currently learning [React.js](https://react.dev/) and [Node.js](https://nodejs.org/en/learn)
