@@ -16,7 +16,7 @@
 
 ## About me
 
-I'm a self-taught web developer, from Algeria.__
+I'm a self-taught web developer, from Algeria.\
 Check out my "Pinned" repositories for my favorite creations.
 
 
