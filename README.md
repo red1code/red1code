@@ -16,7 +16,8 @@
 
 ## About me
 
-I'm a self-taught front-end developer, from Algeria.
+I'm a self-taught web developer, from Algeria.__
+Check out my "Pinned" repositories for my favorite creations.
 
 
 ### My skills
