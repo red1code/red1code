@@ -39,13 +39,12 @@ Check out my "Pinned" repositories for my favorite creations.
     alt="Google Sheets icon" width="50" height="50"/>
   &nbsp;
 </div>
-\
 
 - 🌱 Currently learning Backend development
 - 💥 Interested in Mobile development
 
 ## Links
-<div align="center">
+<div>
   <a href="https://www.linkedin.com/in/redouane-bekkouche/" target="_blank">
     <img src="./assets/LinkedIn_icon.svg" width="40" height="40">
   </a>&nbsp;
