@@ -39,7 +39,9 @@ Check out my "Pinned" repositories for my favorite creations.
     alt="Google Sheets icon" width="50" height="50"/>
   &nbsp;
 </div>
+
 <br />
+
 - 🌱 Currently learning Backend development
 - 💥 Interested in Mobile development
 
