@@ -1,27 +1,10 @@
 ### Hi there 👋
-
-<div id="header" align="center">
-  <a href="https://www.linkedin.com/in/redouane-bekkouche/" target="_blank">
-    <img src="./assets/LinkedIn_icon.svg" width="40" height="40">
-  </a>&nbsp;
-  <a href="https://twitter.com/red1dev" target="_blank">
-    <img src="./assets/X-icon.svg" width="40" height="40">
-  </a>&nbsp;
-  <a href="https://t.me/red1dev" target="_blank">
-    <img src="./assets/telegram.svg" width="40" height="40">
-  </a>
-</div>
-
----
-
-## About me
-
 I'm a self-taught web developer, from Algeria.\
 Check out my "Pinned" repositories for my favorite creations.
 
+---
 
-### My skills
-
+## Skills
 <div>
   <img 
     src="./assets/html5-original.svg" 
@@ -56,11 +39,23 @@ Check out my "Pinned" repositories for my favorite creations.
     alt="Google Sheets icon" width="50" height="50"/>
   &nbsp;
 </div>
+\
 
-<br />
+- 🌱 Currently learning Backend development
+- 💥 Interested in Mobile development
 
-- 🌱 Currently learning [React.js](https://react.dev/) and [Node.js](https://nodejs.org/en/learn)
-- 💥 Interested in [Flutter]()
+## Links
+<div align="center">
+  <a href="https://www.linkedin.com/in/redouane-bekkouche/" target="_blank">
+    <img src="./assets/LinkedIn_icon.svg" width="40" height="40">
+  </a>&nbsp;
+  <a href="https://twitter.com/red1dev" target="_blank">
+    <img src="./assets/X-icon.svg" width="40" height="40">
+  </a>&nbsp;
+  <a href="https://t.me/red1dev" target="_blank">
+    <img src="./assets/telegram.svg" width="40" height="40">
+  </a>
+</div>
 
 ---
 
